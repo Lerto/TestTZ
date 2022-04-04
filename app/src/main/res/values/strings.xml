@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test App</string>
+    <string name="main_title">Poke</string>
+    <string name="main_bottom_name">Poke Name</string>
 </resources>
